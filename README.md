@@ -2,7 +2,7 @@
 
 ### Predicts if a person will die from Covid, using metrics such as age, weight, etc.
 
-<img src="https://github.com/Clark-Whitehead/self_driving/blob/master/raceCar.jpg?raw=true" width="500" alt="sample_output">
+<img src="https://github.com/Clark-Whitehead/ML_Covid_Death_Predictor/blob/main/covid.jpg?raw=true" width="500" alt="sample_output">
 
 ### How to run:
 
