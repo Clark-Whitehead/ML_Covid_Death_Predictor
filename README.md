@@ -6,12 +6,12 @@
 
 ### How to run:
 
-#### 1. Upload race_car_gym.ipynb to Colab and run there, or...
+#### 1. Upload Covid_Death_Predictor.ipynb to Colab and run there, or...
 
 #### 2. Clone this github repo onto your local machine by running the following code:
 
 ```
-git clone https://github.com/Clark-Whitehead/self_driving.git
+git clone https://github.com/Clark-Whitehead/ML_Covid_Death_Predictor.git
 ```
 
 #### 3. Install Jupyter Notebooks if you don't have it yet:
@@ -32,6 +32,6 @@ jupyter notebook --notebook-dir ~/
 
 #### 6. In your browser running Jupyter, navigate into the directory you just downloaded from our github
 
-#### 7. Click on race_car_gym.ipynb
+#### 7. Click on Covid_Death_Predictor.ipynb
 
 #### 8. Run the cells in order
