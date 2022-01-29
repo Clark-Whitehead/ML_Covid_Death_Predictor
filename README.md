@@ -1,6 +1,6 @@
 # ML_Covid_Death_Predictor
 
-### Predicts if a person will die from Covid, using metrics such as age, weight, etc.
+### Predicts if a person will die from Covid, using metrics such as age, weight, etc..
 
 <img src="https://github.com/Clark-Whitehead/ML_Covid_Death_Predictor/blob/main/covid.jpg?raw=true" width="500" alt="sample_output">
 
